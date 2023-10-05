@@ -1,3 +1,15 @@
+# v2.0.5 (Thu Oct 05 2023)
+
+#### 🐛 Bug Fix
+
+- Add CODEOWNERS and renovation.json [#6](https://github.com/pleo-io/config-man/pull/6) ([@igorDolzh](https://github.com/igorDolzh))
+
+#### Authors: 1
+
+- Igor Dolzhenkov ([@igorDolzh](https://github.com/igorDolzh))
+
+---
+
 # v2.0.4 (Mon Aug 07 2023)
 
 #### 🐛 Bug Fix
