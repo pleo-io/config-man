@@ -1,3 +1,15 @@
+# v2.0.6 (Fri Oct 06 2023)
+
+#### 🐛 Bug Fix
+
+- Add files for gold in opslevel [#7](https://github.com/pleo-io/config-man/pull/7) ([@igorDolzh](https://github.com/igorDolzh))
+
+#### Authors: 1
+
+- Igor Dolzhenkov ([@igorDolzh](https://github.com/igorDolzh))
+
+---
+
 # v2.0.5 (Thu Oct 05 2023)
 
 #### 🐛 Bug Fix
