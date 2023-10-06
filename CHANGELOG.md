@@ -1,3 +1,15 @@
+# v2.0.7 (Fri Oct 06 2023)
+
+#### 🐛 Bug Fix
+
+- Feature/hms 1562 check opslevel for repos [#8](https://github.com/pleo-io/config-man/pull/8) ([@igorDolzh](https://github.com/igorDolzh))
+
+#### Authors: 1
+
+- Igor Dolzhenkov ([@igorDolzh](https://github.com/igorDolzh))
+
+---
+
 # v2.0.6 (Fri Oct 06 2023)
 
 #### 🐛 Bug Fix
